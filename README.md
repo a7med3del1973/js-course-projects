@@ -1,2 +1,2 @@
 # js-course-projects
-This repository contain all tasks and projects i made during learning jonas js-course
+This repository contain all tasks and projects i made during learning js-course
